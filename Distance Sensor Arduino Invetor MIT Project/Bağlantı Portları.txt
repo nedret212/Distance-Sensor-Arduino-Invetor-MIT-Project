@@ -1,0 +1,13 @@
+Sr04(Mesafe Sensörü) Portlar:
+
+gnd : topraklama
+echo: 3
+trig: 2
+vcc : 5v
+
+Hc05(Bluetooth) Portlar:
+
+5v  : 5v
+GND : topraklama
+TX  : RX 0
+RX  : TX 1
